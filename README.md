@@ -10,5 +10,5 @@ Click a box and hit the number on your keybaord to pencil in a number. To confir
 
 # Run in Gitpod
 
-You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for GitHub:
+You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for GitHub.
 
